@@ -1,10 +1,10 @@
 ### Hello GitHubber 👋, My Name is Chibichakaravarthi Vikramathithan. You can call me CB.
 
-🔭 ### Current Passions 🔭
+### 🔭 Current Passions 🔭
 
 I’m currently working with UiPath designing and architecting the next web component based Design system for the entire company and unifying the UI platform for all products within UiPath.
 
-🌱 ### Major Interests 🌱
+### 🌱 Major Interests 🌱
 
 I love learning about Crypto and Web Components. I enjoy creating web components that are simple to use and encapsulates logic to avoid rewriting thing over and over again. 
 
