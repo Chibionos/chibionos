@@ -8,9 +8,9 @@ I’m currently working with UiPath designing and architecting the next web comp
 
 I love learning about Crypto and Web Components. I enjoy creating web components that are simple to use and encapsulates logic to avoid rewriting thing over and over again. 
 
-💬 ### Ask me anything about 💬
+### 💬 Ask me anything about 💬
 
-### Concepts
+### 💬 Concepts 💬
 
 Certificates
 Domains
@@ -18,7 +18,7 @@ Web Hosting
 Distrubed computing
 High Availability systems
 
-### Frameworks
+### 💬 Frameworks 💬
 
 lit-element
 Stenciljs
@@ -27,12 +27,12 @@ Asp .Net core
 Typescript
 Storybook
 
-### Tools
+### 💬 Tools 💬
 
 chromatic
 lerna
 
-### Cloud Platforms
+### 💬 Cloud Platforms 💬
 
 Azure App Services
 Azure App Service Certificates
