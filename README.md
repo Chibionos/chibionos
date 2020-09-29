@@ -6,7 +6,7 @@ I’m currently working with UiPath designing and architecting the next web comp
 
 ### Major Interests
 
-I love learning about Crypto and Web Components. I enjoy creating web components that are simple to use and encapsulates logic to avoid rewriting thing over and over again. 
+I love learning about Crypto frameworks and Web Components. I enjoy creating web components that are simple to use and encapsulates logic to avoid rewriting thing over and over again. 
 
 ### Area of expertize
 ### Concepts
@@ -36,7 +36,7 @@ git actions
 azure pipelines
 unpkg
 ```
-### 💬 Cloud Platforms 💬
+### Cloud Platforms
 ```
 Azure App Services
 Azure App Service Certificates
