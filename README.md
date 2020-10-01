@@ -14,7 +14,7 @@ I love learning about Crypto frameworks and Web Components. I enjoy creating web
 Certificates
 Domains
 Web Hosting
-Distrubed computing
+Distributed computing
 High Availability systems
 Enterprise Authentication
 ```
